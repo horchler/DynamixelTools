@@ -17,8 +17,8 @@ Andrew D. Horchler, *adh9 @ case . edu*, [biorobots.case.edu](http://biorobots.c
 Created: 6-28-15, Revision: 1.0, 2-25-16  
 
 This version tested with Matlab 8.6.0.267246 (R2015b)  
-Mac OS X 10.11.4 (Build: 14D136), Java 1.7.0_75-b13  
-Compatibility maintained back through Matlab 7.4 (R2015a)  
+Mac OS X 10.11.4 (Build: 15E65), Java 1.7.0_75-b13  
+Compatibility maintained back through Matlab 8.5 (R2015a)  
 &nbsp;  
 
 --------
