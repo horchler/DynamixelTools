@@ -7,7 +7,7 @@ function DXLDemo
 %   BaudRateValue.BAUD_1000000 (or less) or call the begin method and specify
 %   the desired baud rate value.
 
-%   Andrew D. Horchler, adh9 @ case . edu
+%   Andrew D. Horchler, horchler @ gmail . com
 %   Created: 7-6-15, Revision: 1.0, 7-13-15
 
 

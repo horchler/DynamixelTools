@@ -15,7 +15,7 @@
  *	DXL class to BaudRateValue.BAUD_1000000 (or less) or call the begin method of the
  *	Matlab DXL class and specify the desired baud rate value.
  *	
- *	Author: Andrew D. Horchler, adh9 @ case.edu
+ *	Author: Andrew D. Horchler, horchler @ gmail . com
  *	Created: 7-5-15, modified: 4-6-16
  */
 

@@ -4,7 +4,7 @@ function OPENCMDemo
 %   Ensure that OpenCM9.04 microcontroller is connected via USB. Actuators are
 %   assumed to be MX Series actuators by default.
 
-%   Andrew D. Horchler, adh9 @ case . edu
+%   Andrew D. Horchler, horchler @ gmail . com
 %   Created: 7-6-15, Revision: 1.0, 2-25-16
 
 

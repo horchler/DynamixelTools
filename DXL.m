@@ -48,10 +48,10 @@ classdef DXL < OPENCM
     %       DXL/open, DXL/writeByte, DXL/readByte, DXL/writeWord, DXL/readWord,
     %       DXL/begin, DXL/ping, DXL/close, DXL/delete
     
-    %   Andrew D. Horchler, adh9 @ case . edu
+    %   Andrew D. Horchler, horchler @ gmail . com
     %   Created: 6-28-15, Revision: 1.0, 8-4-15
     %   
-    %   Copyright (c) 2015, Andrew D. Horchler
+    %   Copyright (c) 2015-2017, Andrew D. Horchler
     %   All rights reserved.
     %   
     %   Redistribution and use in source and binary forms, with or without

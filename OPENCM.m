@@ -45,10 +45,10 @@ classdef OPENCM < handle
     %       OPENCM/open, OPENCM/begin, OPENCM/close, OPENCM/delete
     
     
-    %   Andrew D. Horchler, adh9 @ case . edu
+    %   Andrew D. Horchler, horchler @ gmail . com
     %   Created: 7-10-15, Revision: 1.0, 2-25-16
     %   
-    %   Copyright (c) 2015-2016, Andrew D. Horchler
+    %   Copyright (c) 2015-2017, Andrew D. Horchler
     %   All rights reserved.
     %   
     %   Redistribution and use in source and binary forms, with or without

@@ -8,7 +8,7 @@ function uploadBinary(BinaryFileName,SerialPortName)
 %   UPLOADBINARY(BINARYFILENAME, SERIALPORTNAME) optionally specifies USB the
 %   serial port name, SERIALPORTNAME, as a string.
 
-%   Andrew D. Horchler, adh9 @ case . edu
+%   Andrew D. Horchler, horchler @ gmail . com
 %   Created: 7-10-15, Revision: 1.1, 2-25-16
     
 
