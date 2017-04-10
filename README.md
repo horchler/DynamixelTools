@@ -1,8 +1,8 @@
 DynamixelTools
 ========
-#####Matlab Toolbox to control ROBOTIS Dynamixel smart servo actuators with the OpenCM9.04 microcontroller.#####
-######Version 1.0, 2-25-16######
-#####Download Repository: [ZIP Archive](https://github.com/horchler/DynamixelTools/archive/master.zip)#####
+##### Matlab Toolbox to control ROBOTIS Dynamixel smart servo actuators with the OpenCM9.04 microcontroller.
+###### Version 1.0, 2-25-16
+##### Download Repository: [ZIP Archive](https://github.com/horchler/DynamixelTools/archive/master.zip)
 
 --------
 
